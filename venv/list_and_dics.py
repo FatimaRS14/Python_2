@@ -6,7 +6,7 @@ def run():
         {"firstname": "Francisco", "lastname": "García"},
         {"firstname": "Emmanuel", "lastname": "Rodriguez"},
         {"firstname": "Luis", "lastname": "Trinidad"},
-        {"firstname": "Susana", "lastname": "Martinez"},
+        {"firstname": "Fatima", "lastname": "Rojas"},
         {"firstname": "Josué", "lastname": "Montiel"},
     ]
 
