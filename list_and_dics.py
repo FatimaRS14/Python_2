@@ -1,13 +1,13 @@
-ef run():
+def run():
     my_list = [1, "Hello", True, 4.5]
     my_dict = {"firstname": "Facundo", "lastname": "García"}
 
     super_list = [
-        {"firstname": "Francisco", "lastname": "García"},
-        {"firstname": "Emmanuel", "lastname": "Rodriguez"},
-        {"firstname": "Luis", "lastname": "Trinidad"},
-        {"firstname": "Fatima", "lastname": "Rojas"},
-        {"firstname": "Josué", "lastname": "Montiel"},
+        {"firstname": "Facundo", "lastname": "García"},
+        {"firstname": "Miguel", "lastname": "Rodriguez"},
+        {"firstname": "Pablo", "lastname": "Trinidad"},
+        {"firstname": "Susana", "lastname": "Martinez"},
+        {"firstname": "José", "lastname": "Fernandez"},
     ]
 
     super_dict = {
